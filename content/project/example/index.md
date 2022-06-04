@@ -14,7 +14,7 @@ links:
   - url: https://www.moresec.cn/product/ren-jia
 image:
   caption: ""
-  focal_point: Smart
+  focal_point: ""
 url_code: ""
 ---
 1. Designed Detection Tooling for risk assessment of the network traffic with ML to detect and analyze abnormal attack and hidden malicious behaviors
