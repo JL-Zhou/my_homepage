@@ -1,76 +1,54 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Jiling Zhou | 周继玲
+role: Postgraduate Student
+bio: My research interests include Cyber Security with Data Science, Data
+  Security and Privacy Protection, Applied AI in Privacy Security Tooling,
+  Applied Mathematics in Cyber Security.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+  - Cyber Security with Data Science
+  - Data Security and Privacy Protection
+  - Applied AI in Privacy Security Tooling
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:zhoujl0610@gmail.com
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    link: https://twitter.com/JLZhou0610
+  - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.linkedin.com/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/JL-Zhou
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+  - display:
+      header: false
+    link: pdf/CV.pdf
+    icon_pack: ai
+    icon: cv
+organizations:
+  - name: College of Engineering, Mathematics and Physical Sciences, University of
+      Exeter
+    url: https://emps.exeter.ac.uk/
+education:
+  courses:
+    - course: Master in Cyber Security Analytics, 2022–present
+      institution: University of Exeter
+      year: ""
+    - course: B.E. in Computer Science and Technology, 2011–2015
+      institution: Tianjin Chengjian University
+      year: ""
+    - course: Exchange Sudent in Cyber Security, 2014–2015
+      institution: Tianjin Institute of Software Engineering
+      year: ""
+email: ""
+superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ne is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
