@@ -35,7 +35,7 @@ organizations:
     url: https://emps.exeter.ac.uk/
 education:
   courses:
-    - course: Master in Cyber Security Analytics, 2022–present
+    - course: MSc. in Cyber Security Analytics, 2022–present
       institution: University of Exeter
       year: ""
     - course: B.E. in Computer Science and Technology, 2011–2015
