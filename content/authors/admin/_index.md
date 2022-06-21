@@ -7,7 +7,7 @@ bio: My research interests include Cyber Security with Data Science, Data
 interests:
   - Cyber Security with Data Science
   - Data Security and Privacy Protection
-  - Applied AI in Privacy Security Tooling
+  - Applied AI in Privacy Security
 social:
   - icon: envelope
     icon_pack: fas
