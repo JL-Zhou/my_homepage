@@ -3,8 +3,8 @@ title: Jiling Zhou | 周继玲
 role: MSc. Student
 avatar_filename: zjl11.jpeg
 bio: My research interests include Cyber Security with Data Science, Data
-  Security and Privacy Protection, Applied AI in Privacy Security Tooling,
-  Applied Mathematics in Cyber Security.
+  Security and Privacy Protection, Applied AI in Privacy Security, Applied
+  Mathematics in Cyber Security.
 interests:
   - Cyber Security with Data Science
   - Data Security and Privacy Protection
