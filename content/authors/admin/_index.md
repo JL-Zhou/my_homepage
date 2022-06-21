@@ -48,6 +48,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Ne is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Jiling Zhou, a MSc. student in Cyber Security Analytics at the College of Engineering, Mathematics and Physical Sciences in the University of Exeter(UoE) which is part of the intersection of security and data science. Before that, I had several years of experience in the cyber security industry in China. I am looking for a Ph.D. Position in Privacy Security with Data Science.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests during the Master are in Cyber Security with Data Science, Data Security and Privacy Protection, Applied AI in Privacy Security Tooling and Applied Mathematics in Cyber Security.
